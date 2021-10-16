@@ -19,8 +19,7 @@ bio: My research interests include adversarial machine learning.
 # Interests to show in About widget
 interests:
 - Adversarial Machine Learning
-- Computational Linguistics
-- Information Retrieval
+
 
 # Education to show in About widget
 education:
@@ -70,6 +69,6 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a junior student at Yao Class, IIIS, Tsinghua University. My research interests 
+I am currently a junior student at Yao Class, IIIS, Tsinghua University. My research interests includes machine learning, especially on making machine learning algorithms safer and more robust.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
