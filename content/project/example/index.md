@@ -1,6 +1,6 @@
 ---
-title: Traffic at Peak Hours: A Game Theory View
-summary: How excessive competition to limited resources could lead to a dramatic decrease of social welfare.
+title: Traffic at Peak Hours - A Game Theory View
+summary: An example of using the in-built project page.
 tags:
 - AI
 date: "2016-04-27T00:00:00Z"
