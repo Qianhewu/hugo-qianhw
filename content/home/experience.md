@@ -26,8 +26,8 @@ experience:
     company: Tsinghua University
     company_url: ''
     company_logo: org-x
-    location: Beijing China
-    date_start: 'Sep 2019'
+    location: Beijing
+    date_start: '2019'
     date_end: ''
     description: Yao Class, IIIS.
         
