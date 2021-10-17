@@ -22,23 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
+  - title: Bacholar of Computer Science
+    company: Tsinghua University
+    company_url: 'https://www.tsinghua.edu.cn/en/'
+    company_logo: tsinghua_logo
+    location: Beijing China
+    date_start: '2019-1-1'
     date_end: ''
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Yao Class, IIIS
+    #description: |2-
+    #    Responsibilities include:
+    #    
+    #    * Analysing
+    #    * Modelling
+    #    * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: High School Education
+    company: Shenzhen Middle School
+    company_url: 'http://en.shenzhong.net/'
+    company_logo: sms
+    location: Shenzhen, China
+    date_start: '2016-1-1'
+    date_end: '2019-1-1'
+    # description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
