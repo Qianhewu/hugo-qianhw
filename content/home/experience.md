@@ -24,27 +24,21 @@ date_format: Jan 2006
 experience:
   - title: Bacholar of Computer Science
     company: Tsinghua University
-    company_url: 'https://www.tsinghua.edu.cn/en/'
-    company_logo: tsinghua_logo
-    location: Beijing China
+    company_url: ''
+    company_logo: org-x
+    location: Beijing
     date_start: '2019-1-1'
     date_end: ''
     description: Yao Class, IIIS
-    #description: |2-
-    #    Responsibilities include:
-    #    
-    #    * Analysing
-    #    * Modelling
-    #    * Deploying
         
   - title: High School Education
     company: Shenzhen Middle School
-    company_url: 'http://en.shenzhong.net/'
-    company_logo: sms
-    location: Shenzhen, China
+    company_url: ''
+    company_logo: org-x
+    location: Shenzhen
     date_start: '2016-1-1'
     date_end: '2019-1-1'
-    # description: Taught electronic engineering and researched semiconductor physics.
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
