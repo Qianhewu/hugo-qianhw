@@ -25,11 +25,11 @@ experience:
   - title: Bacholar of Computer Science
     company: Tsinghua University
     company_url: ''
-    company_logo: tsinghua_logo
+    company_logo: org-x
     location: Beijing China
     date_start: 'Sep 2019'
     date_end: ''
-    description: Yao Class, IIIS
+    description: Yao Class, IIIS.
         
   - title: Professor of Semiconductor Physics
     company: University X
