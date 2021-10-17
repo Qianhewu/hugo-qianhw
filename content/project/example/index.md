@@ -1,9 +1,9 @@
 ---
-title: Traffic at Peak Hours: A Game Theory View
-summary: How excessive competition to limited resources could lead to a dramatic decrease of social welfare.
+title: Example Project
+summary: An example of using the in-built project page.
 tags:
-- Game Theory
-date: "2021-10-17T00:00:00Z"
+- Deep Learning
+date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
