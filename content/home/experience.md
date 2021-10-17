@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Professor of Semiconductor Physics
-    company: University X
+    company: Yao Class IIIS
     company_url: ''
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: 'Sep 2019'
+    date_end: ''
     description: Taught electronic engineering and researched semiconductor physics.
         
   - title: Professor of Semiconductor Physics
