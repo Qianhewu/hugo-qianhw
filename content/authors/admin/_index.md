@@ -18,7 +18,8 @@ bio: My research interests include adversarial machine learning.
 
 # Interests to show in About widget
 interests:
-- Adversarial Machine Learning
+- Machine Learning
+- Game Theory
 
 
 # Education to show in About widget
@@ -53,9 +54,9 @@ education:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,4 +67,4 @@ highlight_name: true
 
 I am currently a junior student at Yao Class, IIIS, Tsinghua University. My research interests includes machine learning, especially on making machine learning algorithms safer and more robust.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
