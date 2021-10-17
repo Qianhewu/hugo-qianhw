@@ -26,7 +26,7 @@ education:
   courses:
   - course: Tsinghua University
     institution: Yao Class, Institute for Interdisciplinary Information Sciences
-    year: 2019-now
+    year: 2019-Current
   - course: Shenzhen Middle School
     year: 2016-2019
 # Social/Academic Networking

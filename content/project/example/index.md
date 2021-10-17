@@ -2,8 +2,8 @@
 title: Traffic at Peak Hours - A Game Theory View
 summary: An example of using the in-built project page.
 tags:
-- AI
-date: "2016-04-27T00:00:00Z"
+- Game Theory
+date: "2021-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
