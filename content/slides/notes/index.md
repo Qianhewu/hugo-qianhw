@@ -1,3 +1,21 @@
+---
+title: Slides
+summary: A learning note on Adversarial Machine learning.
+authors: []
+tags: []
+categories: []
+date: "2021-10-18T00:00:00Z"
+slides:
+  # Choose a theme from https://github.com/hakimel/reveal.js#theming
+  theme: black
+  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
+  #   Light style: github. Dark style: dracula (default).
+  highlight_style: dracula
+---
+
+
+
+
 ## <center>Notes on Adversarial Machine Learning</center>
 
 ### 1  Formalize Adversarial Attack
