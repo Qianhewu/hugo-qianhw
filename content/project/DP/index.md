@@ -1,6 +1,6 @@
 ---
 title: A survey on Differential Privacy
-summary: 
+summary: Surveys over basic building blocks of Differential Privacy algorithms as well as their applications. They guard sensitive data from exposure without harming its usage too much.
 tags:
 - Others
 date: "2021-04-27T00:00:00Z"
@@ -21,4 +21,6 @@ url_video: ""
 # slides: example
 ---
 
-DP
+Over the past several decades, immense amount of data were collected, which enables a variety of new applications and services. Some of these applications investigate user behaviors and gain economic profits from it (such as recommendation algorithms); while some of them get access to crucial information such as health condition or medical data. As a result, it has been a growing concern to guard the privacy of users and protect sensitive data from exposure.
+
+Among various approaches, Differential Privacy is considered as one of the most promising privacy preservation techniques. An elegant definition of privacy is proposed by and several basic mechanisms are introduced as building blocks toward privacy. In this report, we make a concise introduction to these techniques and briefly discuss several applications of differential privacy.
