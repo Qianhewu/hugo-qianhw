@@ -35,6 +35,6 @@ tags:
 
 categories:
 - Notes
-slides = "Notes"
+slides: "Notes"
 ---
 
