@@ -1,6 +1,5 @@
 ---
-title: Diversifying Options in Option-Critic Framework of
-Hierarchical Reinforcement Learning
+title: Diversifying Options in Option-Critic Framework of Hierarchical Reinforcement Learning
 summary: a
 tags:
 - AI
