@@ -1,6 +1,6 @@
 ---
-title: Test photos
-subtitle: My photos for test
+title: My favorite photos
+subtitle:
 
 # Summary for listings and search engines
 summary: Photos for test
@@ -22,7 +22,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Adversarial ML'
+  caption: 'See the world through'
   focal_point: ""
   placement: 2
   preview_only: True
@@ -37,3 +37,34 @@ categories:
 - Photo
 ---
 
+
+
+![avatar](figures/20191002tianjin/1.jpg)
+
+![avatar](figures/20191002tianjin/2.jpg)
+
+![avatar](figures/202002Shenzhen/1.jpeg)
+
+![avatar](figures/202002Shenzhen/2.jpg)
+
+![avatar](figures/202002Shenzhen/3.jpeg)
+
+![avatar](figures/202002Shenzhen/4.jpeg)
+
+![avatar](figures/202002Shenzhen/5.jpeg)
+
+![avatar](figures/202002Shenzhen/6.jpeg)
+
+![avatar](figures/tsinghua/1.jpg)
+
+![avatar](figures/tsinghua/2.jpeg)
+
+![avatar](figures/tsinghua/3.jpeg)
+
+![avatar](figures/tsinghua/4.jpeg)
+
+![avatar](figures/tsinghua/5.jpeg)
+
+![avatar](figures/tsinghua/6.jpeg)
+
+![avatar](figures/tsinghua/7.jpeg)
