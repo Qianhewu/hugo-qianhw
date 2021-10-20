@@ -3,7 +3,7 @@ title: A survey on Differential Privacy
 summary: Surveys over basic building blocks of Differential Privacy algorithms as well as their applications. They guard sensitive data from exposure without harming its usage too much.
 tags:
 - Others
-date: "2021-04-27T00:00:00Z"
+date: "2021-06-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
