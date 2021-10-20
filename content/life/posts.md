@@ -14,7 +14,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: post
+  page_type: photo
   count: 0
   offset: 0
   order: desc
