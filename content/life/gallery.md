@@ -17,3 +17,5 @@ design:
 ---
 
 {{< gallery album="themes" >}}
+
+A gallery for test.
