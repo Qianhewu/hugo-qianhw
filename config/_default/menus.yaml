@@ -4,9 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Lify
+  - name: Life
     url: "/life"
-    weight: 2
+    weight: 62
   - name: Home
     url: '#about'
     weight: 10
