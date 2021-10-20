@@ -64,7 +64,7 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a junior student at Yao Class, IIIS, Tsinghua University. My research interests includes machine learning, especially on making machine learning algorithms safer and more robust.
+I am currently a junior student at Yao Class, IIIS, Tsinghua University. My research interests include machine learning, especially on making machine learning algorithms safer and more robust.
 
 I like playing piano and I especially enjoy playing the songs from animations. I am also a fan of photography and tennis.
 
