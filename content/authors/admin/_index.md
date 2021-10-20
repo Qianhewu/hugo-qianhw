@@ -14,7 +14,7 @@ organizations:
   url: https://www.tsinghua.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include adversarial machine learning.
+bio: I like chess, piano, animation and photography.
 
 # Interests to show in About widget
 interests:
