@@ -3,7 +3,7 @@ title: My favorite photos
 subtitle:
 
 # Summary for listings and search engines
-summary: Photos for test
+summary: 
 # Link this post with a project
 projects: []
 

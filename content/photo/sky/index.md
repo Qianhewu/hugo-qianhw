@@ -3,7 +3,7 @@ title: Sky
 subtitle: Not quite the real colors though.
 
 # Summary for listings and search engines
-summary: Photos for test
+summary: Not quite the real colors though.
 # Link this post with a project
 projects: []
 
@@ -22,7 +22,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'See the world through'
+  caption: '2018 in Xiamen University'
   focal_point: ""
   placement: 2
   preview_only: True
