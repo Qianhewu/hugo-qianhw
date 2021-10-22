@@ -148,7 +148,7 @@ marketing:
   google_analytics: ''
   google_tag_manager: ''
   google_site_verification: ''
-  baidu_site_verification: 'code-7BynQM9TAs'
+  baidu_site_verification: "code-7BynQM9TAs"
   baidu_tongji: ''
 cms:
   branch: master
