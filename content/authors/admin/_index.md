@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wenda Chu （储闻达）
+title: Wenda Chu 储闻达
 
 # Is this the primary user of the site?
 superuser: true
