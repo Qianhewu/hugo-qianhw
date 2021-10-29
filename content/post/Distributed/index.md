@@ -1,6 +1,6 @@
 ---
 title: Distributed System
-subtitle: My learning and research notes of Machine Learning in the adversarial setting.
+subtitle: My review notes on course Distributed System and BlockChain.
 
 # Summary for listings and search engines
 summary: My review notes on course Distributed System and BlockChain.

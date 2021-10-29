@@ -67,10 +67,25 @@ Contrast. (2020.5)
 那座桥挺有意思的。 (2020.7)
 
 ![avatar](figures/tsinghua/1.jpg)
-六教 == 迷宫 (2019.9)
+六教 + first impression == 迷宫 (2019.9)
+
+![avatar](figures/tsinghua/art_museum.jpeg)
+艺术博物馆 first impression (2019.9)
+
+![avatar](figures/tsinghua/canteen.jpg)
+紫荆食堂 first impression (2019.9)
 
 ![avatar](figures/tsinghua/2.jpeg)
-桃李门前的雪。 (2020.1)
+桃李门前的雪。 (2019.12)
+
+![avatar](figures/tsinghua/snow1.jpeg)
+雪后。(2019.12)
+
+![avatar](figures/tsinghua/snow2.jpeg)
+雪后。(2019.12)
+
+![avatar](figures/tsinghua/snow3.jpg)
+雪后。(2019.12)
 
 ![avatar](figures/tsinghua/3.jpeg)
 Covid 19. (2020.11)
@@ -84,5 +99,18 @@ Covid 19. (2020.11)
 ![avatar](figures/tsinghua/6.jpeg)
 月黑风高。 (2021.1)
 
+![avatar](figures/tsinghua/flower1.jpeg)
+图书馆门口。 (2021.8)
+
+![avatar](figures/Trip/Beijing_railway.jpg)
+京津高铁。 (2021.10)
+
 ![avatar](figures/tsinghua/7.jpeg)
 See the world through...? (2020.10)
+
+#### Trip
+![avatar](figures/Trip/chuanxi.jpeg)
+色达佛学院。 (2019.7)
+
+![avatar](figures/Trip/greatwall.jpeg)
+长城。 (2021.5)

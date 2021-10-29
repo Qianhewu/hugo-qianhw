@@ -22,7 +22,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Adversarial ML'
+  caption: 'A pipeline for attacking object detection models in the physical world'
   focal_point: ""
   placement: 2
   preview_only: false
