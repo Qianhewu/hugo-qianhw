@@ -3,7 +3,7 @@ title: Animals
 subtitle: Aren't they cute?
 
 # Summary for listings and search engines
-summary: Not quite the real colors though.
+summary: Aren't they cute?
 # Link this post with a project
 projects: []
 

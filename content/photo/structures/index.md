@@ -3,7 +3,7 @@ title: Structures
 subtitle: Some interesting structures.
 
 # Summary for listings and search engines
-summary: Not quite the real colors though.
+summary: Some interesting structures.
 # Link this post with a project
 projects: []
 
