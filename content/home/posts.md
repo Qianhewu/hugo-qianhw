@@ -25,11 +25,11 @@ content:
     exclude_featured: false
     exclude_past: false
     exclude_future: false
-  links:
-    - icon_pack: fas
-      icon: fa-stick-note
-      name: All notes
-      url: 'https://wenda-qianhw.netlify.app/category/notes/'
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/Twitter'
 
 design:
   # Toggle between the various page layout types.
