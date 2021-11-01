@@ -27,7 +27,7 @@ content:
     exclude_future: false
 links:
   - icon_pack: fas
-    icon: stick-notes
+    icon: fa-stick-note
     name: All notes
     url: 'https://wenda-qianhw.netlify.app/category/notes/'
 
