@@ -16,7 +16,7 @@ content:
   # Page type to display. E.g. project.
   page_type: note
   count: 0
-  offset: 0
+  offset: 3
   order: desc
   filters:
     tag: 'show'
