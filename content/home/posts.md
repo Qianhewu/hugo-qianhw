@@ -40,3 +40,4 @@ design:
   view: 2
 ---
 
+[More Notes]({{< relref "/category/notes/" >}})
