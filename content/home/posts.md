@@ -25,6 +25,11 @@ content:
     exclude_featured: false
     exclude_past: false
     exclude_future: false
+links:
+  - icon_pack: fas
+    icon: stick-notes
+    name: All notes
+    url: 'https://wenda-qianhw.netlify.app/category/notes/'
 
 design:
   # Toggle between the various page layout types.
