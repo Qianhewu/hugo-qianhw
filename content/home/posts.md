@@ -19,7 +19,7 @@ content:
   offset: 0
   order: desc
   filters:
-    tag: ''
+    tag: 'show'
     category: ''
     publication_type: ''
     exclude_featured: false
