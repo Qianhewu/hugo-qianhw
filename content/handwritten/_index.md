@@ -1,7 +1,7 @@
 ---
 title: More Notes
 type: book  # Do not modify.
-toc: false
+toc: true
 ---
 
-Welcome to my notes!
+Welcome to my handwritten notes!

@@ -7,6 +7,9 @@ main:
   - name: Life
     url: "/life"
     weight: 62
+  - name: Notes
+    url: "/note"
+    weight: 61
   - name: Home
     url: '#about'
     weight: 10
