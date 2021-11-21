@@ -1,6 +1,7 @@
 ---
 title: Notes
-cms_exclude: true
+# cms_exclude: true
+type: "widget_page"
 
 # View.
 #   1 = List
