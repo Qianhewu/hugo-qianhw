@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 66
 
-title: Photos
+title: More notes
 subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: photo
+  page_type: more_notes
   count: 0
   offset: 0
   order: desc
