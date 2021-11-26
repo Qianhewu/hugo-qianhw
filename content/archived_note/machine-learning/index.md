@@ -37,4 +37,4 @@ categories:
 - Notes
 ---
 
-{{< ref "archived_note/machine-learning/1-intro.pdf" >}}Introduction{{< /ref >}}
+[1 Introduction]({{< ref "archived_note/machine-learning/1-intro.pdf" >}})
