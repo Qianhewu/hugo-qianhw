@@ -87,7 +87,7 @@ Some of the notes are hand-written. The others are typed in markdown.
 
 
 
-{{< staticref "uploads/ml/13.pdf" "newtab" >}}13 Differential Privacy{< /staticref >}}
+{{< staticref "uploads/ml/13.pdf" "newtab" >}}13 Differential Privacy{{< /staticref >}}
 
 
 
