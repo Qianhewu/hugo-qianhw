@@ -1,23 +1,24 @@
 ---
-title: "An example conference paper"
+title: "TPC: Transformation-Specific Smoothing for Point Cloud Models.pdf"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Linyi Li
+- Bo Li
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2022-01-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +27,38 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *International Conference on Machine Learning*
+publication_short: In *ICML*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Point cloud models with neural network architec-
+tures have achieved great success and been widely
+used in safety-critical applications, such as Lidar-
+based recognition systems in autonomous vehi-
+cles. However, such models are shown vulnerable
+against adversarial attacks which aim to apply
+stealthy semantic transformations such as rotation
+and tapering to mislead model predictions. In
+this paper, we propose a transformation-specific
+smoothing framework TPC, which provides tight
+and scalable robustness guarantees for point cloud
+models against semantic transformation attacks.
+We first categorize common 3D transformations
+into three categories: additive (e.g., shearing),
+composable (e.g., rotation), and indirectly com-
+posable (e.g., tapering), and we present generic ro-
+bustness certification strategies for all categories
+respectively. We then specify unique certification
+protocols for a range of specific semantic trans-
+formations and their compositions. Extensive ex-
+periments on several common 3D transformations
+show that TPC significantly outperforms the state
+of the art. For example, our framework boosts
+the certified accuracy against twisting transforma-
+tion along z-axis (within ±20$^\circ$ ) from 20.3% to
+83.8%.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags: []
 
