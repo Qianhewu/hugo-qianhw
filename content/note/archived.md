@@ -35,8 +35,8 @@ links:
 
 design:
   background:
-    gradient_start: '#ccffff'
-    gradient_end: '#cce5ff'
+    gradient_start: '#000000'
+    gradient_end: '#0000CC'
     text_color_light: true
   # Toggle between the various page layout types.
   #   1 = List
