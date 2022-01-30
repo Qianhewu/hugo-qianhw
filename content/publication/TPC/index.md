@@ -60,8 +60,9 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Overview of TPC framework. TPC includes smoothing and certification strategies to provide certified robustness for point cloud models against semantic transformations. Besides rotation as shown in figure, TPC provides strong robustness certification for a wide range of other semantic transformations.'
-  focal_point: ""
-  preview_only: false
+  focal_point: "Smart"
+  preview_only: true
+  alt_text: Overview of TPC framework.
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
