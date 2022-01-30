@@ -31,7 +31,7 @@ authors:
 - admin
 
 tags:
-- show
+- typed
 
 categories:
 - Notes

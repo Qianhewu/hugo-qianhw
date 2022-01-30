@@ -27,7 +27,7 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Preprint. Under Review.
+publication: Preprint. Under Review
 publication_short: 
 # publication: In *International Conference on Machine Learning*
 # publication_short: In *ICML*

@@ -12,19 +12,27 @@ weight: 66
 title: Notes
 subtitle: ''
 
+design:
+  background:
+    gradient_start: '#4bb4e3'
+    gradient_end: '#2b94c3'
+    text_color_light: true
+
 content:
   # Page type to display. E.g. project.
   page_type: archived_note
   count: 0
   offset: 0
   order: desc
-  filters:
-    tag: 'show'
-    category: ''
-    publication_type: ''
-    exclude_featured: false
-    exclude_past: false
-    exclude_future: false
+  
+  filter_button:
+  - name: All
+    tag: '*'
+  - name: Typed
+    tag: 'typed'
+  - name: 'Handwritten'
+    tag: 'handwritten'
+
 links:
   - icon_pack: fab
     icon: twitter
