@@ -27,8 +27,8 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication:
-publication_short: Preprint. Under Review.
+publication: Preprint. Under Review.
+publication_short: 
 # publication: In *International Conference on Machine Learning*
 # publication_short: In *ICML*
 
@@ -59,8 +59,9 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
+  Placement: 1
   caption: 'Overview of TPC framework. TPC includes smoothing and certification strategies to provide certified robustness for point cloud models against semantic transformations. Besides rotation as shown in figure, TPC provides strong robustness certification for a wide range of other semantic transformations.'
-  focal_point: "Smart"
+  focal_point: "Center"
   preview_only: true
   alt_text: Overview of TPC framework.
 
