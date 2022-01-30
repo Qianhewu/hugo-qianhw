@@ -1,7 +1,7 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: portfolio
 
 # This file represents a page section.
 headless: true
@@ -11,12 +11,6 @@ weight: 66
 
 title: Notes
 subtitle: ''
-
-design:
-  background:
-    gradient_start: '#4bb4e3'
-    gradient_end: '#2b94c3'
-    text_color_light: true
 
 content:
   # Page type to display. E.g. project.
@@ -40,6 +34,10 @@ links:
     url: 'https://twitter.com/Twitter'
 
 design:
+  background:
+    gradient_start: '#4bb4e3'
+    gradient_end: '#2b94c3'
+    text_color_light: true
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
