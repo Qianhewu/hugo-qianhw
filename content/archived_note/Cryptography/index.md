@@ -39,13 +39,18 @@ categories:
 
 Some of the notes are hand-written. The others are typed in markdown.
 
-- {{< staticref "uploads/crypto/1.pdf" "newtab" >}}1 Indistinguishability and Pseudorandomness{{< /staticref >}}
-- {{< staticref "uploads/crypto/2.pdf" "newtab" >}}2 Pseudorandom Generators{{< /staticref >}}
-- {{< staticref "uploads/crypto/3.pdf" "newtab" >}}3 Pseudorandom Functions{{< /staticref >}}
-- {{< staticref "uploads/crypto/4.pdf" "newtab" >}}4 Probabilistic Encryption{{< /staticref >}}
-- {{< staticref "uploads/crypto/5.pdf" "newtab" >}}5 Simulation and Zero Knowledge Proof{{< /staticref >}}
-- {{< staticref "uploads/crypto/6.pdf" "newtab" >}}6 Hash Functions{{< /staticref >}}
-- {{< staticref "uploads/crypto/7.pdf" "newtab" >}}7 Authentication and Signature{{< /staticref >}}
-- {{< staticref "uploads/crypto/8.pdf" "newtab" >}}8 Lattice Problem{{< /staticref >}}
-- {{< staticref "uploads/crypto/9.pdf" "newtab" >}}9 Program Obfuscation{{< /staticref >}}
-- {{< staticref "uploads/crypto/10.pdf" "newtab" >}}10 Secure Multiparty Computation{{< /staticref >}}
+- {{< staticref "uploads/crypto/owf.pdf" "newtab" >}}1 Computational Hardness and One-Way Functions{{< /staticref >}}
+
+- {{< staticref "uploads/crypto/basic_algo.pdf" "newtab" >}}2-1 Basic Algorithms{{< /staticref >}}
+- {{< staticref "uploads/crypto/rsa_discrete_log.pdf" "newtab" >}}2-2 RSA & Discrete-log{{< /staticref >}}
+- {{< staticref "uploads/crypto/3.pdf" "newtab" >}}3 Indistinguishability and Pseudorandomness{{< /staticref >}}
+- {{< staticref "uploads/crypto/4.pdf" "newtab" >}}4 Pseudorandom Generators{{< /staticref >}}
+- {{< staticref "uploads/crypto/5.pdf" "newtab" >}}5 Pseudorandom Functions{{< /staticref >}}
+- {{< staticref "uploads/crypto/6.pdf" "newtab" >}}6 Probabilistic Encryption{{< /staticref >}}
+- {{< staticref "uploads/crypto/zero_knowledge.pdf" "newtab" >}}7-1 Zero Knowledge Proof{{< /staticref >}}
+- {{< staticref "uploads/crypto/7.pdf" "newtab" >}}7-2 Simulation and Zero Knowledge Proof{{< /staticref >}}
+- {{< staticref "uploads/crypto/8.pdf" "newtab" >}}8 Hash Functions{{< /staticref >}}
+- {{< staticref "uploads/crypto/9.pdf" "newtab" >}}9 Authentication and Signature{{< /staticref >}}
+- {{< staticref "uploads/crypto/10.pdf" "newtab" >}}10 Lattice Problem{{< /staticref >}}
+- {{< staticref "uploads/crypto/11.pdf" "newtab" >}}11 Program Obfuscation{{< /staticref >}}
+- {{< staticref "uploads/crypto/12.pdf" "newtab" >}}12 Secure Multiparty Computation{{< /staticref >}}
