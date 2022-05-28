@@ -36,7 +36,7 @@ publication_short:
 # publication: In *International Conference on Machine Learning*
 # publication_short: In *ICML* 2022
 
-abstract: Federated learning (FL) provides an effective paradigm to train machine learning
+abstract: "Federated learning (FL) provides an effective paradigm to train machine learning
 models over distributed data with privacy protection. However, recent studies
 show that FL is subject to various security, privacy, and fairness threats due to the
 potentially malicious and heterogeneous local agents. For instance, it is vulnerable
@@ -54,7 +54,7 @@ by FAA compared with standard FedAvg protocol under both linear models and
 general convex loss functions. Empirically, we evaluate FOCUS on four datasets,
 including synthetic data, images, and texts under different settings, and we show
 that FOCUS achieves significantly higher fairness based on FAA while maintaining
-similar or even higher prediction accuracy compared with FedAvg.
+similar or even higher prediction accuracy compared with FedAvg."
 
 # Summary. An optional shortened abstract.
 summary: 
