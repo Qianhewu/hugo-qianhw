@@ -1,9 +1,9 @@
 ---
-title: Animals
-subtitle: Aren't they cute?
+title: 喵
+subtitle: 很可能是狗 
 
 # Summary for listings and search engines
-summary: Aren't they cute?
+summary: 
 # Link this post with a project
 projects: []
 
@@ -22,7 +22,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Meww!'
+  caption: ''
   focal_point: ""
   placement: 2
   preview_only: True

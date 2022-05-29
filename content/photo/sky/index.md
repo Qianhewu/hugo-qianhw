@@ -22,7 +22,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: '2018 in Xiamen University'
+  caption: '2018 在厦门大学'
   focal_point: ""
   placement: 2
   preview_only: True
