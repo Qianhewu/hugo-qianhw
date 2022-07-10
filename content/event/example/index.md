@@ -64,6 +64,9 @@ projects:
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
+
+{{< video src="TPC_talk.mp4" controls="yes" >}}
+
 Slides can be added in a few ways:
 
 - **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
