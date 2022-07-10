@@ -5,9 +5,11 @@
 
 # Appearance
 
-theme: minimal
+# theme: minimal
+theme_day: minimal
+theme_night: dark
 day_night: true
-font: ''
+font: 'rose'
 font_size: L
 
 # SEO
