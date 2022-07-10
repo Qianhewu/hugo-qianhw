@@ -1,5 +1,4 @@
 ---
-​---
 # A section created with the Portfolio widget.
 # This section displays content from `content/events/`.
 # See https://wowchemy.com/docs/widget/portfolio/
@@ -40,5 +39,4 @@ design:
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
-​---
 ---
