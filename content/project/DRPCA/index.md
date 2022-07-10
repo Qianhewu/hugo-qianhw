@@ -13,6 +13,10 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
+image:
+  caption: 'Relative recover error of different problem scales.'
+  focal_point: Right
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

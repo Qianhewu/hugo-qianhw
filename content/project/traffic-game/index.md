@@ -8,10 +8,14 @@ date: "2021-07-10T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-url_code: ""
+url_code: "https://github.com/Qianhewu/Traffic-Game"
 url_pdf: ""
 url_slides: ""
 url_video: ""
+
+image:
+  caption: 'Comparison of the optimal expected waiting time (black) and the average waiting time of the found equilibrium (blue).'
+  focal_point: Right
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

@@ -9,7 +9,7 @@ date: "2020-01-10T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 'Guilty Crown ED Departures'
+  caption: 'A rendered bunny in a colorful room.'
   focal_point: Right
 
 url_code: ""

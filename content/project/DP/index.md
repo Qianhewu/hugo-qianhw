@@ -13,6 +13,10 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
+image:
+  caption: 'Differential privacy as a promising privacy-preserving tool.'
+  focal_point: Right
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
