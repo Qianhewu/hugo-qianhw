@@ -47,14 +47,15 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2201.12733'
+url_arxiv: 'https://arxiv.org/abs/2201.12733'
 url_code: 'https://github.com/Qianhewu/Point-Cloud-Smoothing'
 url_dataset: ''
-url_poster: ''
+url_poster: 'staticref "poster/tpc_poster.pdf'
 url_project: ''
-url_slides: 'relref "../../events/TPC_talk'
+url_slides: 'staticref "slides/tpc_slides.pdf'
 url_source: ''
-url_video: ''
+url_video: 'relref "../../events/TPC_talk'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
