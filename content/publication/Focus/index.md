@@ -36,24 +36,7 @@ publication_short:
 # publication: In *International Conference on Machine Learning*
 # publication_short: In *ICML* 2022
 
-abstract: "Federated learning (FL) provides an effective paradigm to train machine learning
-models over distributed data with privacy protection. However, recent studies
-show that FL is subject to various security, privacy, and fairness threats due to the
-potentially malicious and heterogeneous local agents. For instance, it is vulnerable
-to local adversarial agents who only contribute low-quality data, with the goal of
-harming the performance of those with high-quality data. This kind of attack hence
-breaks existing definitions of fairness in FL that mainly focus on a certain notion
-of performance parity. In this work, we aim to address this limitation and propose
-a formal definition of fairness via agent-awareness for FL (FAA), which takes
-the heterogeneous data contributions of local agents into account. In addition, we
-propose a fair FL training algorithm based on agent clustering (FOCUS) to achieve
-FAA. Theoretically, we prove the convergence and optimality of FOCUS under
-mild conditions for linear models and general convex loss functions with bounded
-smoothness. We also prove that FOCUS always achieves higher fairness measured
-by FAA compared with standard FedAvg protocol under both linear models and
-general convex loss functions. Empirically, we evaluate FOCUS on four datasets,
-including synthetic data, images, and texts under different settings, and we show
-that FOCUS achieves significantly higher fairness based on FAA while maintaining
+abstract: "Federated learning (FL) provides an effective paradigm to train machine learning models over distributed data with privacy protection. However, recent studies show that FL is subject to various security, privacy, and fairness threats due to the potentially malicious and heterogeneous local agents. For instance, it is vulnerable to local adversarial agents who only contribute low-quality data, with the goal of harming the performance of those with high-quality data. This kind of attack hence breaks existing definitions of fairness in FL that mainly focus on a certain notion of performance parity. In this work, we aim to address this limitation and propose a formal definition of fairness via agent-awareness for FL (FAA), which takes the heterogeneous data contributions of local agents into account. In addition, we propose a fair FL training algorithm based on agent clustering (FOCUS) to achieve FAA. Theoretically, we prove the convergence and optimality of FOCUS under mild conditions for linear models and general convex loss functions with bounded smoothness. We also prove that FOCUS always achieves higher fairness measured by FAA compared with standard FedAvg protocol under both linear models and general convex loss functions. Empirically, we evaluate FOCUS on four datasets, including synthetic data, images, and texts under different settings, and we show that FOCUS achieves significantly higher fairness based on FAA while maintaining
 similar or even higher prediction accuracy compared with FedAvg."
 
 # Summary. An optional shortened abstract.
@@ -69,7 +52,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2207.10265'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -85,7 +68,7 @@ image:
   caption: ''
   focal_point: "Center"
   preview_only: false
-  alt_text: Overview of TPC framework.
+  alt_text: 
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

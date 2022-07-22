@@ -47,12 +47,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/abs/2201.12733'
+url_code: 'https://github.com/Qianhewu/Point-Cloud-Smoothing'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: '{{< relref "../../events/TPC_talk" >}}'
 url_source: ''
 url_video: ''
 
