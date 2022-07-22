@@ -52,7 +52,7 @@ url_code: 'https://github.com/Qianhewu/Point-Cloud-Smoothing'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: '{{< relref "../../events/TPC_talk" >}}'
+url_slides: 'relref "../../events/TPC_talk'
 url_source: ''
 url_video: ''
 
