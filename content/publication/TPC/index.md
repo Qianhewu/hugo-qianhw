@@ -46,8 +46,10 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-
-url_arxiv: 'https://arxiv.org/abs/2201.12733'
+links:
+- name: arxiv
+  url: https://arxiv.org/abs/2201.12733
+url_pdf: ''
 url_code: 'https://github.com/Qianhewu/Point-Cloud-Smoothing'
 url_dataset: ''
 url_poster: 'staticref "poster/tpc_poster.pdf'

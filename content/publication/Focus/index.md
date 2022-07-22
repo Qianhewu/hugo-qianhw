@@ -48,11 +48,11 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: arxiv
+  url: https://arxiv.org/abs/2207.10265
 
-url_pdf: 'https://arxiv.org/abs/2207.10265'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -85,3 +85,4 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
